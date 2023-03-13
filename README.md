@@ -1,7 +1,11 @@
 # Demo
 
-Some description
+Some description!
 
 ## Subheader
 
 Watch tutorial on YouTube.
+
+## Local Development
+
+1. Open index.html browser. Check
